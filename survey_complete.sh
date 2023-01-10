@@ -1,4 +1,4 @@
 #!/bin/bash
 
-EXAMCODE=anxious cow car potatoes 072499
+EXAMCODE=icG2oERU
 echo ${EXAMCODE}
