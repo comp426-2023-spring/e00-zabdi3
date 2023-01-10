@@ -1,5 +1,4 @@
 #!/bin/bash
 
-EXAMCODE=https://classroom.github.com/a/icG2oERU
-
+EXAMCODE=anxious cow car potatoes 072499
 echo ${EXAMCODE}
