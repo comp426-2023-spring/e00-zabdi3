@@ -1,4 +1,4 @@
 #!/bin/bash
 
-EXAMCODE=is:https://classroom.github.com/a/icG2oERU
+EXAMCODE=923172677
 echo ${EXAMCODE}
